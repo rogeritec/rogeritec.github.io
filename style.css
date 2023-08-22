@@ -10,7 +10,8 @@ header {
     background-color: black;
     color: aliceblue;
     font-weight: 600;
-    border: 10px solid crimson;
+    border: 10px double crimson;
+    box-shadow: 10px 10px black;
 }
 
 h3 {
